@@ -1,0 +1,5 @@
+1. "What if we adjusted each product price by reducing it 5 percent?"
+
+2. "Show me a list of orders made by each customer in descending data order?"
+
+3. "Compile a complete list of vendor names and addresses in vendor name order."

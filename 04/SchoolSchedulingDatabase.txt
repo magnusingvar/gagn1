@@ -1,0 +1,8 @@
+1. "Display buildings and all the classrooms in each building."
+ 
+2. "List students and all the classes in which they are currently enrolled."
+ 
+3. "List the faculty staff and the subject each teaches."
+ 
+4. "Show me the students who have a grade of 85 or better in art and who also have a grade of 85 or better in any computer course"
+ 

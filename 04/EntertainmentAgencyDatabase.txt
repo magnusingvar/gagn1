@@ -1,0 +1,5 @@
+1 "Display agents and the engagement dates they booked, sorted by booking start date."
+ 
+2. "List customers and the entertainers they booked."
+ 
+3. "Find the agents and entertainers who live in the same poster code."

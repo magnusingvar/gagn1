@@ -1,0 +1,5 @@
+1. "Show me customers who have never ordered a helmet"
+ 
+2."Display customers who have no sales rep (employees) in the same ZIP Code"
+ 
+3. "List all products and the dates for any orders."

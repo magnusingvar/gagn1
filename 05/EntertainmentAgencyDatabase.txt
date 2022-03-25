@@ -1,0 +1,5 @@
+1. "Display agents who haven't booked an entertainer"
+ 
+2. "List customers with no bookings."
+ 
+3. "List all entertainers and any engagements they have booked"

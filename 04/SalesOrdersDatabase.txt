@@ -1,0 +1,11 @@
+1. "List cusomers and the dates they placed an order, sorted in order date sequence"
+ 
+2. "List employees and the customers for whom they booked an order"
+ 
+3. "Display all orders, the products in each order, and the amount owed for each product, in order number sequence"
+ 
+4. "Show me the vendors and the prodcuts they supply to us for products that cost less than $100."
+ 
+5. "Show me customers and employees who have the same last name"
+ 
+6. "Show me customers and employees who live in the same city"

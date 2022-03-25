@@ -1,0 +1,5 @@
+1. "Show next year's tournament date for each tournament location."
+
+2. "List the name and phone number for each member of the league."
+
+3. "Give me a listing of each team's lineup."

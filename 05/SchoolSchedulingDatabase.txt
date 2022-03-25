@@ -1,0 +1,7 @@
+1. "Show me classes that have no students enrolled"
+ 
+2. "Display subjects with no faculty assigned"
+ 
+3. "List students not currently enrolled in any classes."
+ 
+4. "Display all faculty and the classes they are scheduled to teach"

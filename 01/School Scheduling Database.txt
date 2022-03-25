@@ -1,0 +1,5 @@
+1. "Show me a complete list of all subjects we offer."
+
+2. "What kinds of titles are associated with our faculty"
+
+3. "List the names and phone numbers of all our staff, and sort them by last name and first name."

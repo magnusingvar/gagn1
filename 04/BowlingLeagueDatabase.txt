@@ -1,0 +1,5 @@
+1. "List the bowling teams and all the team members"
+ 
+2. "Display the bowlers, the matches they played in, and the bowler game scores."
+ 
+3. "Find the bowlers who lice in the same ZIP Code."

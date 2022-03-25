@@ -1,0 +1,5 @@
+1. "List all of the teams in alphabetical order."
+
+2. "Show me all the bowling score information for each of our members."
+
+3. "Show me a list of bowlers and their addresses, and sort it in alphabetical order"

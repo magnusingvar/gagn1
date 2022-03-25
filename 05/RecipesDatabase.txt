@@ -1,0 +1,7 @@
+1. "Display missing types of recipes."
+
+2. "Show me all ingredients and any recipes they're used in."
+
+3. "List the salad, soup, and main course categories and any recipes."
+
+4. "Display all recipe classes and any recipes."

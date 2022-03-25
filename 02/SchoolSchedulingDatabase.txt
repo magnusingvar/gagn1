@@ -1,0 +1,5 @@
+1. "Give me a list of staff members, and show them in descending order of salary."
+
+2. "Can you give me a staff member phone list?"
+
+3. "List the names of all our students, and order them by the cities they live in."
